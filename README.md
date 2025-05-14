@@ -29,7 +29,7 @@ Developed by **Chandrakanth Naidu Gonuguntla** as a graduate research assistant 
 
 ## Demo Walkthrough
 
-The demo video ([Insert YouTube Link]) showcases the flow:
+The demo video ([[YouTube](https://youtu.be/PyU6ZZPpO2M?si=20HKbhlR0Cof6CDz)]) showcases the flow:
 1. **Home Page**: Navigate to analysis options.
 2. **Commodity History**: Select “Oil,” three titles, view graph, and download data.
 3. **Exponential Smoothing**:
@@ -39,7 +39,7 @@ The demo video ([Insert YouTube Link]) showcases the flow:
 4. **Risk Aversion**: Input parameters, calculate allocations, and download PDF.
 5. **Prophet**: Repeat with Prophet’s settings and confidence intervals.
 
-See the [User Guide](docs/user_guide.md) for detailed steps.
+See the [User Guide](user_guide.md) for detailed steps.
 
 ## Tech Stack
 
@@ -108,7 +108,7 @@ commodity_forecasting_project/
 
 ## Usage
 
-Follow the [User Guide](docs/user_guide.md) to analyze prices, forecast trends, and calculate risk allocations.
+Follow the [User Guide](user_guide.md) to analyze prices, forecast trends, and calculate risk allocations.
 
 ## Code Example  
 *Flask route for forecasting, alt: Python code for Exponential Smoothing.*
