@@ -120,14 +120,14 @@ def run_exponential_forecast():
     results = run_exponential_model(data)
     return jsonify({'success': True, 'results': results, 'plot': generate_plot_json(results)})
 ```
-
+- **LinkedIn Article**: [Article](https://www.linkedin.com/pulse/commodity-price-history-forecasting-risk-aversion-web-gonuguntla-mpdcc/?trackingId=dv0u4ZQuQ%2Buh7EJzwpFQ4Q%3D%3D)
 
 ## Connect
 
-- **LinkedIn**: [www.linkedin.com/in/chandrakanthnaidu](www.linkedin.com/in/chandrakanthnaidu)
-- **Portfolio**: [https://chandrakanthnaidu.github.io/](https://chandrakanthnaidu.github.io/)
-- **Instagram**: [https://www.instagram.com/ckn_gonuguntla/](https://www.instagram.com/ckn_gonuguntla/)
-- **Facebook**: [https://www.facebook.com/chandrakanthnaiduG/](https://www.facebook.com/chandrakanthnaiduG/)
+- **LinkedIn**: [chandrakanthnaidu](www.linkedin.com/in/chandrakanthnaidu)
+- **Portfolio**: [chandrakanthnaidu.github.io/](https://chandrakanthnaidu.github.io/)
+- **Instagram**: [ckn_gonuguntla/](https://www.instagram.com/ckn_gonuguntla/)
+- **Facebook**: [chandrakanthnaiduG/](https://www.facebook.com/chandrakanthnaiduG/)
 
 **Acknowledgments**: Prof. Santosh Mahapatra and the FRED API.
 
