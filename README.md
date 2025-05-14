@@ -7,7 +7,7 @@
 
 Developed by **Chandrakanth Naidu Gonuguntla** as a graduate research assistant at Clarkson University under **Prof. Santosh Mahapatra**, this **Flask web app** uses the **FRED API** for **commodity price analysis**, **forecasting**, and **risk aversion**. It features **Exponential Smoothing** and **Prophet** for price predictions and optimizes contract allocations. Currently available for Clarkson University’s Business Department, it will be public soon.
 
-**[Watch the Demo Video](#)** *[Insert YouTube Link]* | **[User Guide](docs/user_guide.md)**
+**[Watch the Demo Video](#)** *[[YouTube](https://youtu.be/PyU6ZZPpO2M?si=20HKbhlR0Cof6CDz)]* | **[User Guide](user_guide.md)**
 
 ## Features
 
